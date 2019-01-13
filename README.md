@@ -10,21 +10,21 @@ These 2 apps are 2 interfaces that can be used by the customer and manager. The 
 2. Install all required packages.
 3. In the terminal, run "node bamazonCustomer.js"
 4. The terminal will instantly be updated with a list of items available for purchase and will requests a product ID to be purchased.
-![invenlist](rdme_images/img01.jpg)
+![invenlist](/rdme_images/img01.jpg)
 5. After selecting the product and quantity that are to be purchased, it will give you the total cost. 
-![checkout](rdme_images/img02.jpg)
+![checkout](/rdme_images/img02.jpg)
 
 ##Using the ManagerApp
 1. Open the bamazonManager.js file.
 2. Install all required packages.
 3. In the terminal, run "node bamazonManager.js"
 4. The terminal will provide 4 options that the manager can access.
-![managerop](rdme_images/img03.jpg)
+![managerop](/rdme_images/img03.jpg)
 (a) "View Products for Sale" will list all products available for purchase.
-![managerop1](rdme_images/img04.jpg)
+![managerop1](/rdme_images/img04.jpg)
 (b) "View Low Inventory" will list all products with an inventory below 5.
-![managerop2](rdme_images/img05.jpg)
+![managerop2](/rdme_images/img05.jpg)
 (c) "Add to Inventory" will allow product to have inventory added to them.
-![managerop3](rdme_images/img06.jpg)
+![managerop3](/rdme_images/img06.jpg)
 (d) "Add to Inventory" will allow a completely new product to be added to the inventory. 
-![managerop4](rdme_images/img07.jpg)
+![managerop4](/rdme_images/img07.jpg)
